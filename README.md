@@ -61,19 +61,19 @@ The housing market is a powerful indicator of economic health, and the dataset c
 # **Visualizations for Question 1**
 
 ### **Statewide Distribution — Box & Whisker Plot**
-![Box Plot – Price Growth Distribution](graphs/Question1_Boxwhiskerplot.png)
+![plot](./Question1_Boxwhiskerplot.png)
 
 ### **Top 10 Towns — Price Growth (Bar Chart)**
-![Top 10 Towns Price Growth](graphs/Question1_Graph1.png)
+!![plot](./Question1_Graph1.png)
 
 ### **Year-over-Year Average Sale Amounts (Line Chart)**
-![YOY Average Sale Amount](graphs/Question1_Graph2.png)
+!![plot](./Question1_Graph2.png)
 
 ### **Average Sale Prices Per Town — Pre-COVID**
-![Pre-COVID Average Price Map](graphs/Question1_Graph3.png)
+!![plot](./Question1_Graph3.png)
 
 ### **Average Sale Prices Per Town — Post-COVID**
-![Post-COVID Average Price Map](graphs/Question1_Graph4.png)
+!![plot](./Question1_Graph4.png)
 
 # **Analysis for Question 1**
 
@@ -99,16 +99,16 @@ The housing market is a powerful indicator of economic health, and the dataset c
 # **Visualizations for Question 2**
 
 ### **Median Assessed Value by Property Type**
-![Assessed Values – Property Types](graphs/Question2_Graph1.png)
+!![plot](./Question2_Graph1.png)
 
 ### **Median Actual Sale Price by Property Type**
-![Sale Amounts – Property Types](graphs/Question2_Graph2.png)
+!![plot](./Question2_Graph2.png)
 
 ### **Commercial Sales Ratio Map**
-![Commercial Sales Ratio Map](graphs/Question2_Graph3.png)
+!![plot](./Question2_Graph3.png)
 
 ### **Residential Sales Ratio Map**
-![Residential Sales Ratio Map](graphs/Question2_Graph4.png)
+!![plot](./Question2_Graph4.png)
 
 
 # **Analysis for Question 2**
@@ -138,7 +138,7 @@ The housing market is a powerful indicator of economic health, and the dataset c
 
 # Visualization — Forecasted Sales Volume (2018–2025)
 
-![Forecasted Sales Volume](graphs/Question3_Graph1.png)
+!![plot](./Question3_Graph1.png)
 
 # Methodology (Predictive)
 
